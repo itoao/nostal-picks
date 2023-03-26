@@ -1,0 +1,24 @@
+ignorePaths:
+  - .env
+  - .git
+  - .github
+  - .nuxt
+  - cspell.config.yaml
+  - dist
+  - node_modules
+  - amplify/#current-cloud-backend
+  - amplify/backend/**/build
+  - amplify/backend/api/**/resolvers
+  - amplify/backend/function/*/src
+  - amplify/backend/types
+  - amplify/**/*.json
+  - src/aws-exports.js
+  - src/graphql/*
+  - "**/types/API.ts"
+  - "*.csv"
+  - "*.svg"
+words:
+  - nostal
+  - nuxt
+  - nuxtjs
+  - vuetify
