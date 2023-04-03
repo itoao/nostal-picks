@@ -10,6 +10,14 @@
       "StackName": "amplify-nostalpicks-dev-10526",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:876099569275:stack/amplify-nostalpicks-dev-10526/06649cc0-cbf0-11ed-81b5-0ef5dc26b7f5",
       "AmplifyAppId": "d1ozftr21oroqt"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1ozftr21oroqt",
+          "type": "manual"
+        }
+      }
     }
   }
 }
