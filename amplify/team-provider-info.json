@@ -1,21 +1,21 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-nostalpicks-dev-10526-authRole",
-      "UnauthRoleArn": "arn:aws:iam::876099569275:role/amplify-nostalpicks-dev-10526-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::876099569275:role/amplify-nostalpicks-dev-10526-authRole",
+      "AuthRoleName": "amplify-nostalpicks-dev-195311-authRole",
+      "UnauthRoleArn": "arn:aws:iam::604126380041:role/amplify-nostalpicks-dev-195311-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::604126380041:role/amplify-nostalpicks-dev-195311-authRole",
       "Region": "ap-northeast-1",
-      "DeploymentBucketName": "amplify-nostalpicks-dev-10526-deployment",
-      "UnauthRoleName": "amplify-nostalpicks-dev-10526-unauthRole",
-      "StackName": "amplify-nostalpicks-dev-10526",
-      "StackId": "arn:aws:cloudformation:ap-northeast-1:876099569275:stack/amplify-nostalpicks-dev-10526/06649cc0-cbf0-11ed-81b5-0ef5dc26b7f5",
-      "AmplifyAppId": "d1ozftr21oroqt"
+      "DeploymentBucketName": "amplify-nostalpicks-dev-195311-deployment",
+      "UnauthRoleName": "amplify-nostalpicks-dev-195311-unauthRole",
+      "StackName": "amplify-nostalpicks-dev-195311",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:604126380041:stack/amplify-nostalpicks-dev-195311/4cba1b80-20a2-11ee-b08a-0efaa237c49d",
+      "AmplifyAppId": "d2vzyvxylm1miz"
     },
     "categories": {
       "hosting": {
         "amplifyhosting": {
-          "appId": "d1ozftr21oroqt",
-          "type": "manual"
+          "appId": "d2vzyvxylm1miz",
+          "type": "cicd"
         }
       }
     }

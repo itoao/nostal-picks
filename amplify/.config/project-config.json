@@ -6,9 +6,9 @@
     "framework": "vue",
     "config": {
       "SourceDir": "src",
-      "DistributionDir": ".output",
-      "BuildCommand": "npm run-script build",
-      "StartCommand": "npm run-script serve"
+      "DistributionDir": ".output/public",
+      "BuildCommand": "npm run generate",
+      "StartCommand": ""
     }
   },
   "providers": [
